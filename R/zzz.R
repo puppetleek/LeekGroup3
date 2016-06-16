@@ -1,0 +1,18 @@
+.onAttach <- function(libname, pkgname) {
+    packageStartupMessage("###############################################################")
+    packageStartupMessage("                                    _                ")
+    packageStartupMessage("                                ,-\"\" \"\".              ")
+    packageStartupMessage("                              ,'  ____  `.            ")
+    packageStartupMessage("                            ,'  ,'    `.  `._         ")
+    packageStartupMessage("    (`.         _..--.._   ,'  ,'        \\    \\        ")
+    packageStartupMessage("   (`-.\    .-\"\"         \"\"'   /          (  d _b       ")
+    packageStartupMessage("  (`._  `-\"\" ,._             (            `-(   \\      ")
+    packageStartupMessage("  <_  `     (  <`<            \\              `-._\\     ")
+    packageStartupMessage("   <`-       (__< <           :                        ")
+    packageStartupMessage("    (__        (_<_<          ;                        ")
+    packageStartupMessage("     `------------------------------------------       ")
+    packageStartupMessage("")
+    packageStartupMessage("  Essential functions for working with The LEEK group")
+    packageStartupMessage("\n                   QUACK !!!!\n")
+    packageStartupMessage("###############################################################")
+}
